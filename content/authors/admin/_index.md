@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Команда по проекту математическое моделирование
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Команда.
+last_name: Тема 2
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🆒
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,8 +21,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский университет дружбы народов
+    url: https://www.rudn.ru
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -54,6 +54,5 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Мы – команда, мозговой штурм в мире математического моделирования. Наша миссия: покорить электрический пробой и доказать, что даже самые сложные явления подвластны анализу и интеллекту. Готовьтесь, будет искрить!
+В команде: Амуничников Антон, Дымченко Дмитрий, Леснухин Даниил, Майзингер Эллина, Матюхин Павел, Понамарев Алексей
